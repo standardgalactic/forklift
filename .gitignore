@@ -15,3 +15,14 @@ cli.js
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# Forklift generated files
+/reports/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
